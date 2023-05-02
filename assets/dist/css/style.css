@@ -2,6 +2,10 @@ body{
   font-family: Helvetica;
 }
 
+.text{
+  text-decoration: none;
+}
+
 .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;

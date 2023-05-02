@@ -1,0 +1,12 @@
+Tipografia:  Helvetica
+
+Paleta de Cores:
+Background: Azul, HEX: 242b3d;
+Navbar: Cinza, HEX: 212529;
+Linha do tempo: Azul mais escuro, HEX: 1A233A
+Background linha do tempo: Azul, HEX 272e48;
+Botões: Azul claro, HEX: 0b5ed7;
+
+Link figma: https://www.figma.com/file/1Mx3uAS95O8yQtLyEYckpy/Portfolio
+
+Link github pages: 
