@@ -9,4 +9,4 @@ Botões: Azul claro, HEX: 0b5ed7;
 
 Link figma: https://www.figma.com/file/1Mx3uAS95O8yQtLyEYckpy/Portfolio
 
-Link github pages: 
+Link github pages:https://joao-silverio.github.io/Portfolio/
